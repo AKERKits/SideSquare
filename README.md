@@ -27,4 +27,6 @@ The **SideSquare** was modeled using our updated 2016 modeling workflow, which p
  * 18 mm material & 10 mm tool
  * 18 mm material & 12 mm tool
 
+![SideSquare](https://github.com/AKERKits/SideSquare/blob/master/Images/AKER%20-%20Side%20Square%20-%20v1.0%20-%20Nesting%20Assembly%20Cropped-min.jpg)
+
 
