@@ -1,4 +1,4 @@
-#Husky Planter-Large v1.0
+#SideSquare v1.0
 
 *Overview*
 
